@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="C2AB6DEB-0AC5-4F77-828A-3D66009F8E37" version="0">
+	<info>
+		<title>PTS Ganjil PAI Grade 9 24 25</title>
+		<description/>
+	</info>
+	<files index="id37" thumbnail="id33" totalSize="6562649">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/fonts/fnt4.woff</file>
+		<file id="id8">data/fonts/fnt5.woff</file>
+		<file id="id9">data/fonts/fnt6.woff</file>
+		<file id="id10">data/html5-unsupported.html</file>
+		<file id="id11">data/images/img-084c12a571667d5c18c3e64f49a911e5a865b305.png</file>
+		<file id="id12">data/images/img-0e9cdf0b5789e1430778f278469e2de3d45b26be.jpg</file>
+		<file id="id13">data/images/img-1171217f6eca26edc470d7a055b60865325008f0.png</file>
+		<file id="id14">data/images/img-150d54bccbbc41dded0aee1e2b6b2c234e19eed6.png</file>
+		<file id="id15">data/images/img-1b6c1aa12d6396ec10faecff927bf9ca9f0b6f26.png</file>
+		<file id="id16">data/images/img-313ebfb7b826bd7f8500dee60426879c039ebb81.jpg</file>
+		<file id="id17">data/images/img-4847dd456a4108ccb4d5dbaa8493aa1ef0191629.png</file>
+		<file id="id18">data/images/img-5592503e1879758bc1514c5d02244f62d8303c25.jpg</file>
+		<file id="id19">data/images/img-658173d90b698d41c52aba9578da2d1832852ff8.png</file>
+		<file id="id20">data/images/img-7e6523a2e60403358f7aa3fd89cde8472c3dff17.jpg</file>
+		<file id="id21">data/images/img-9239314d874b24f7e5904bc04c63500a475dbbf5.jpg</file>
+		<file id="id22">data/images/img-a30675a6e1e51473669ade716d037faadb235b90.png</file>
+		<file id="id23">data/images/img-ac5c096b6af0adc69392a32909226d57d0caeae7.jpg</file>
+		<file id="id24">data/images/img-b6eeb33c0ea032beaec762a218960f01a0532b0d.jpg</file>
+		<file id="id25">data/images/img-cb3ca0d0353ac59214bcfb8c772da02bba503b3e.jpg</file>
+		<file id="id26">data/images/img-d9901dfd8dc344c4cb4ac4dd698d51e5a271877d.png</file>
+		<file id="id27">data/images/img-e161033f5d0e7b07186b3b2a8640f7647507655e.png</file>
+		<file id="id28">data/images/img-eca9fdd0b090bffef494d1a4be502c0837da99c1.jpg</file>
+		<file id="id29">data/images/img-ee0b4ab38f74304e02864be478edd01a3fbdd4f5.png</file>
+		<file id="id30">data/images/img-fc3b6cab3bc9f8bf51a5ce3d0405ad537a2965d7.jpg</file>
+		<file id="id31">data/ismplayer/app_store2x.png</file>
+		<file id="id32">data/ismplayer/play.svg</file>
+		<file id="id33">data/ismplayer/preview.png</file>
+		<file id="id34">data/ismplayer/style.css</file>
+		<file id="id35">data/ismplayer/style_mini.css</file>
+		<file id="id36">data/player.js</file>
+		<file id="id37">index.html</file>
+		<file id="id38">ismplayer.html</file>
+		<file id="id39">preview.png</file>
+	</files>
+</presentation>
+
